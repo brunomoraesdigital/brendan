@@ -1,46 +1,47 @@
-# Creative Portfolio & Mini-Game
+# Portfólio Criativo com Mini-Jogo
 
-A personal portfolio website with an interactive Pac‑Man style mini‑game embedded in the background.  
-Move your mouse to control the character, avoid ghosts, collect points, and survive as long as possible.
+Um site de portfólio pessoal com um mini-jogo interativo inspirado no Pac-Man, integrado ao fundo da página.  
+O jogador controla o personagem com o mouse, evita fantasmas, coleta pontos e tenta sobreviver o máximo de tempo possível.
 
-🔗 **Live demo:** [https://brenda-ns.github.io/brendans/](https://brenda-ns.github.io/brendans/)
+🔗 **Demonstração ao vivo:** https://brenda-ns.github.io/brendans/
 
-## Features
+## Funcionalidades
 
-- **Fully responsive** portfolio layout with sections: Home, About, Skills, Projects, Contact.
-- **Interactive canvas background** – the game runs behind the content, following your mouse everywhere.
-- **Unique ghost abilities**:
-  - 🔴 **Red** – aggressively chases the player.
-  - 🟠 **Orange** – roams randomly and spawns points around itself.
-  - 🩷 **Pink** – shoots webs that **stun** the player for 1.5 seconds.
-  - 🔵 **Blue** – leaves a long trail (snake) that damages on touch.
-- **Points system** – collect all dots to get a bonus and refresh the map.
-- **Lives system** – start with 3 lives. Touching ghosts or the blue trail reduces lives.
-- **Stun effect** – web immobilizes the player temporarily.
-- **Floating HUD** – shows score and lives in the top right corner.
+- **Portfólio totalmente responsivo**, com seções: Home, Sobre, Skills, Projetos e Contato.
+- **Fundo interativo em canvas**, onde o jogo acontece em segundo plano e reage ao movimento do mouse em toda a página.
+- **Fantasmas com comportamentos únicos:**
+  - 🔴 **Vermelho**: perseguição focada no jogador.
+  - 🟠 **Laranja**: movimentação aleatória e geração de biscoitos ao redor.
+  - 🩷 **Rosa**: dispara teias que prendem o jogador.
+  - 🔵 **Azul**: deixa um rastro longo ao se movimentar.
+- **Sistema de pontuação**, com coleta de biscoitos e bônus ao limpar o mapa.
+- **Sistema de vidas**, iniciando com 3 vidas. A colisão com os fantasmas reduz as vidas.
+- **HUD flutuante**, exibindo pontuação e vidas no canto superior direito.
 
-## Technologies Used
+## Tecnologias utilizadas
 
-- HTML5 / CSS3
+- HTML5 
+- CSS3
 - JavaScript (Canvas API)
-- Google Fonts (Poppins)
-- Font Awesome icons
 
-## How to Play
+## Como jogar
 
-- Move your **mouse** anywhere on the screen → the yellow character follows.
-- **Avoid** the red, pink and blue ghosts (direct touch kills you).
-- **Do not touch** the blue snake trail.
-- **Collect** all yellow dots to score points.
-- If you step on a **pink web**, you get stunned for a moment.
-- The **orange ghost** creates new points around itself.
+- Mova o **mouse** pela tela para controlar o come-come.
+- Evite os fantasmas vermelho, rosa e azul, pois o contato direto causa dano.
+- Não encoste no rastro deixado pelo fantasma azul.
+- Colete todos os pontos amarelos do mapa.
+- Ao ser atingido pela teia rosa, o personagem fica temporariamente preso.
+- O fantasma laranja gera novos pontos por onde passa.
 
-## Credits
+## Licença
+ [![Licença](https://img.shields.io/github/license/brunomoraesdigital/brunomoraesdigital)](LICENSE)
 
-- Developed by **Brenda NS**  
-- Portfolio concept and game integration inspired by the creative work of **Bruno Moraes** ([GitHub](https://github.com/brunomoraesdigital)).  
-- AGPL-3.0 license – see footer for details.
+## ✨ Volte Sempre!
+### Obrigado por visitar o meu perfil! 😊
 
-## License
+<img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/legend.jpg">
 
-AGPL-3.0 – You may use, modify and distribute this code, but any derivative work must also be open source under the same license.
+<div align="center">
+  <br>
+  <i>"Vivendo no presente, construindo o futuro"</i>
+</div>
