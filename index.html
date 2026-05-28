@@ -287,6 +287,20 @@
         </footer>
     </div>
 
+	<button id="modalGameBtn" title="Secreto..."><i class="fas fa-gamepad"></i></button>
+
+	<div id="gameModal" class="modal-overlay">
+		<!--<div class="modal-hud">
+			chiquinho
+		</div>-->
+		
+		<div id="modalCountdown" class="countdown-overlay">3</div>
+		<div class="modal-content">
+			<button class="modal-close-btn"><i class="fas fa-times"></i></button>
+			<canvas id="modalGameCanvas"></canvas>
+		</div>
+	</div>
+
     <script src="engine.js"></script>
 </body>
 </html>
