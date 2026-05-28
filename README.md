@@ -3,7 +3,7 @@
 A personal portfolio website with an interactive Pac‑Man style mini‑game embedded in the background.  
 Move your mouse to control the character, avoid ghosts, collect points, and survive as long as possible.
 
-🔗 **Live demo:** [https://brenda-ns.github.io/brendans/](https://brenda-ns.github.io/brendans/)
+🔗 **Live demo:** https://brenda-ns.github.io/my-portfolio/
 
 ## Features
 
