@@ -3,7 +3,7 @@
 Um site de portfólio pessoal com um mini-jogo interativo inspirado no Pac-Man, integrado ao fundo da página.  
 O jogador controla o personagem com o mouse, evita fantasmas, coleta pontos e tenta sobreviver o máximo de tempo possível.
 
-🔗 **Demonstração ao vivo:** https://brenda-ns.github.io/brendans/
+🔗 **Demonstração ao vivo:** [https://brenda-ns.github.io/brendans/](https://brunomoraesdigital.github.io/brendan/)
 
 ## Funcionalidades
 
