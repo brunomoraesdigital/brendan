@@ -1,47 +1,51 @@
-# Portfólio Criativo com Mini-Jogo
+# Creative Portfolio & Mini-Game
 
-Um site de portfólio pessoal com um mini-jogo interativo inspirado no Pac-Man, integrado ao fundo da página.  
-O jogador controla o personagem com o mouse, evita fantasmas, coleta pontos e tenta sobreviver o máximo de tempo possível.
+A personal portfolio website with an interactive Pac‑Man style mini‑game embedded in the background.  
+Move your mouse to control the character, avoid ghosts, collect points, and survive as long as possible.
 
-🔗 **Demonstração ao vivo:** https://brunomoraesdigital.github.io/brendan/
+🔗 **Live demo:** https://brenda-ns.github.io/my-portfolio/
 
-## Funcionalidades
+## Features
 
-- **Portfólio totalmente responsivo**, com seções: Home, Sobre, Skills, Projetos e Contato.
-- **Fundo interativo em canvas**, onde o jogo acontece em segundo plano e reage ao movimento do mouse em toda a página.
-- **Fantasmas com comportamentos únicos:**
-  - 🔴 **Vermelho**: perseguição focada no jogador.
-  - 🟠 **Laranja**: movimentação aleatória e geração de biscoitos ao redor.
-  - 🩷 **Rosa**: dispara teias que prendem o jogador.
-  - 🔵 **Azul**: deixa um rastro longo ao se movimentar.
-- **Sistema de pontuação**, com coleta de biscoitos e bônus ao limpar o mapa.
-- **Sistema de vidas**, iniciando com 3 vidas. A colisão com os fantasmas reduz as vidas.
-- **HUD flutuante**, exibindo pontuação e vidas no canto superior direito.
+- **Fully responsive** portfolio layout with sections: Home, About, Skills, Projects, Contact.
+- **Interactive canvas background** – the game runs behind the content, following your mouse everywhere.
+- **Unique ghost abilities**:
+  - 🔴 **Red** – aggressively chases the player.
+  - 🟠 **Orange** – roams randomly and spawns points around itself.
+  - 🩷 **Pink** – shoots webs that **stun** the player for 1.5 seconds.
+  - 🔵 **Blue** – leaves a long trail (snake) that damages on touch.
+- **Points system** – collect all dots to get a bonus and refresh the map.
+- **Lives system** – start with 3 lives. Touching ghosts or the blue trail reduces lives.
+- **Stun effect** – web immobilizes the player temporarily.
+- **Floating HUD** – shows score and lives in the top right corner.
 
-## Tecnologias utilizadas
+## Technologies Used
 
-- HTML5 
-- CSS3
+- HTML5 / CSS3
 - JavaScript (Canvas API)
+- Google Fonts (Poppins)
+- Font Awesome icons
 
-## Como jogar
+## How to Play
 
-- Mova o **mouse** pela tela para controlar o come-come.
-- Evite os fantasmas vermelho, rosa e azul, pois o contato direto causa dano.
-- Não encoste no rastro deixado pelo fantasma azul.
-- Colete todos os pontos amarelos do mapa.
-- Ao ser atingido pela teia rosa, o personagem fica temporariamente preso.
-- O fantasma laranja gera novos pontos por onde passa.
+- Move your **mouse** anywhere on the screen → the yellow character follows.
+- **Avoid** the red, pink and blue ghosts (direct touch kills you).
+- **Do not touch** the blue snake trail.
+- **Collect** all yellow dots to score points.
+- If you step on a **pink web**, you get stunned for a moment.
+- The **orange ghost** creates new points around itself.
 
-## Licença
- [![Licença](https://img.shields.io/github/license/brunomoraesdigital/brunomoraesdigital)](LICENSE)
+## Credits
 
-## ✨ Volte Sempre!
-### Obrigado por visitar o meu perfil! 😊
+- Developed by **Bruno Moraes** ([GitHub](https://github.com/brunomoraesdigital)).
+- Bruno, thank you so much for making this for me!
+  - Y’all, Bruno absolutely cooked with this website 😭
+  - The portfolio looks amazing, and the little Pac-Man style game in the background is honestly the coolest thing ever. It feels so unique and fun     without losing the professional vibe.
+  - I wanna see who can get the highest score 👀
 
-<img src="https://raw.githubusercontent.com/brunomoraesdigital/ressources/main/legend.jpg">
 
-<div align="center">
-  <br>
-  <i>"Vivendo no presente, construindo o futuro"</i>
-</div>
+Thank you so much for putting all this together for me, I genuinely love it 🤍
+
+## License
+
+AGPL-3.0 – You may use, modify and distribute this code, but any derivative work must also be open source under the same license.
